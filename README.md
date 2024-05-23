@@ -1,0 +1,7 @@
+NETFLIX DASHBOARD
+
+- DOWNLOADED THE DATASET FROM KAGGLE
+- CLEANED THE DATASET IN POWER QUERY
+- ADDED DAX MEASURES
+
+  ![Screenshot (39)](https://github.com/Ashleshad/netflix-dashboard/assets/77046834/8d41f086-9f3c-4c28-a4dd-6c1dc0a9deaa)
